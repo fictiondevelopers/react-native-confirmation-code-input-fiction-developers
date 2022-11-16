@@ -1,7 +1,7 @@
 {
-  "name": "react-native-confirmation-code-input",
+  "name": "react-native-confirmation-code-input-fiction-developers",
   "version": "1.0.1",
-  "description": "A react-native component to input confirmation code for both Android and IOS",
+  "description": "A react-native component to input confirmation code for both Android and IOS, supports expo 47",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,15 +23,15 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10"
   },
-  "homepage": "https://github.com/ttdung11t2/react-native-confirmation-code-input.git",
+  "homepage": "https://github.com/mahevstark/react-native-confirmation-code-input-fiction-developers.git",
   "bugs": {
-    "url": "https://github.com/ttdung11t2/react-native-confirmation-code-input.git/issues",
-    "email": "ttdung001@gmail.com"
+    "url": "https://github.com/mahevstark/react-native-confirmation-code-input-fiction-developers.git/issues",
+    "email": "mahevstark@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ttdung11t2/react-native-confirmation-code-input.git"
+    "url": "https://github.com/mahevstark/react-native-confirmation-code-input-fiction-developers.git"
   },
-  "author": "Dung Tran <ttdung001@gmail.com>",
+  "author": "Dung Tran <mahevstark@gmail.com>",
   "license": "MIT"
 }

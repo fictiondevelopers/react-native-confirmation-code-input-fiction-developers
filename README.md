@@ -1,3 +1,10 @@
+
+# Fixed by FictionDevelopers to support expo 47
+## Actual patch: 
+- removed ".style" from line 22 of components/ConfirmationCodeInput.js
+
+# All credit goes to the original author: https://github.com/ttdung11t2/react-native-confirmation-code-input.git email: ttdung001@gmail.com
+
 # react-native-confirmation-code-input
 A react-native confirmation code input for both IOS and Android
 
@@ -21,14 +28,14 @@ A react-native confirmation code input for both IOS and Android
 ## Installation
 
 ```sh
-npm install react-native-confirmation-code-input --save
+npm install react-native-confirmation-code-input-fiction-developers --save
 ```
 
 ## Usage
 ### Basic
 Import this module:  
 ```javascript
-import CodeInput from 'react-native-confirmation-code-input';
+import CodeInput from 'react-native-confirmation-code-input-fiction-developers';
 ```
 Use as a component and style it:  
 ```javascript
@@ -107,13 +114,13 @@ this.refs.refName.clear();
 ## Example
 See [EXAMPLE](example)
 ```sh
-git clone https://github.com/ttdung11t2/react-native-confirmation-code-input.git
-cd react-native-confirmation-code-input/example
+git clone https://github.com/ttdung11t2/react-native-confirmation-code-input-fiction-developers.git
+cd react-native-confirmation-code-input-fiction-developers/example
 npm install
 react-native run-ios / react-native run-android
 ```
 ## License
 
-react-native-confirmation-code-input is released under the MIT license. See [LICENSE](LICENSE) for details.  
+react-native-confirmation-code-input-fiction-developers is released under the MIT license. See [LICENSE](LICENSE) for details.  
   
 Any question or support will welcome.
